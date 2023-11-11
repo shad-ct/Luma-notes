@@ -1,0 +1,12 @@
+
+{
+  "hosting": {
+    "public": "public",
+    "site": "luma-notes",
+    "ignore": [
+      "firebase.json",
+      "/.*",
+      "/node_modules/**"
+    ]
+  }
+}
