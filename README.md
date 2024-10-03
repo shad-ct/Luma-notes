@@ -1,3 +1,3 @@
 # Luma-notes
 
-luma-notes.web.app
+Luma web is down for now.
